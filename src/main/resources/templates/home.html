@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/css/style.css" th:href="@{/css/style.css}">
+    <title>ToDo App</title>
+</head>
+<body>
+    <div class="main">
+        <div class="body-content">
+            <div class="card-upcoming">
+                <h1>Seems like<br>you have no tasks</h1>
+            </div>
+        </div>
+        <div class="footer-btn">
+            <div class="card-footer">
+                <a class="btn-add" th:href="@{/}">Add</a> <!-- Link para abrir formulario de adição -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
