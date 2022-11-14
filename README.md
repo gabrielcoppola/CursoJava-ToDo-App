@@ -1,10 +1,10 @@
 ## To-Do App
 
 Idealizado durante o curso de formação em Java oferecido pela [Funtec](https://www.ribeiraopreto.sp.gov.br/portal/funtec) com objetivo de estudo sobre os assuntos abordados no curso.
-</br>
-<span style="color:red">*O projeto é o mínimo produto viável, entregando apenas a funcionalidade básica de adicionar e excluir tarefas.
+
+*O projeto é o mínimo produto viável, entregando apenas a funcionalidade básica de adicionar e excluir tarefas.
 <br/>
-*Será implementando semana a semana funcionalidades novas.**</span>
+*Será implementando semana a semana funcionalidades novas.**
 
 ### Sobre o projeto
 
